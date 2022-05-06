@@ -5,8 +5,6 @@
 
 ## Este projeto tem como objetivo criar uma aplicação de compra de produtos alimentares
 
-## MyGrocery
-
 ### Requisitos Minimos
 * Criação de uma lista de produtos
 * Filtrar os produtos através de categorias
